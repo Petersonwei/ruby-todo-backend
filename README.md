@@ -23,7 +23,7 @@ cd backend
 **Output after `rails new backend --api`:**
 
 ```jsx
-PS C:\Dev\Udemy\ruby-todo> rails new backend --api
+PS C:ruby-todo> rails new backend --api
 Based on the specified options, the following options will also be activated:
 
   --skip-javascript [due to --api]
@@ -246,7 +246,7 @@ rails db:migrate
 **Output after `rails db:migrate`:**
 
 ```jsx
-PS C:\Dev\Udemy\ruby-todo\backend> rails db:migrate
+PS C:ruby-todo\backend> rails db:migrate
 == 20250628221506 CreateTodos: migrating ======================================
 -- create_table(:todos)
    -> 0.0051s
